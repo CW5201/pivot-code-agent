@@ -1,5 +1,7 @@
 # Pivot Code
 
+> 本项目 fork 自 [tboulet/Alan-Code-agent](https://github.com/tboulet/Alan-Code-agent)（Apache-2.0），包含二次开发与中文文档。
+
 一个开源的 Python 编码代理，灵感来源于 Claude Code。可在命令行（CLI）、图形界面（GUI）或作为 Python 库三种方式使用，方便你在其基础上继续构建。
 
 Pivot Code 实现了现代命令行代理的许多特性，如工具调用、钩子、技能、上下文压缩等，并加入了独特功能：跨会话记忆、实时成本追踪，以及包含聊天、模型视角和 Git 树视图的图形界面。
